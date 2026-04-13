@@ -16,7 +16,6 @@ This repository contains a 100% Java application built using [Spring Boot](https
 
 This project serves as a template/starting point for modern Java applications leveraging the power of Spring Boot. It offers out-of-the-box configurations and a structure suitable for building scalable back-end services.
 
-> _Please update this section with more details about your application's purpose and main features!_
 
 ## Getting Started
 
