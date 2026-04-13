@@ -1,0 +1,10 @@
+package org.example.springbootv3.exception;
+
+// DuplicateResourceException.java
+//package com.example.employeemanagement.exception;
+
+public class DuplicateResourceException extends RuntimeException {
+    public DuplicateResourceException(String message) {
+        super(message);
+    }
+}
